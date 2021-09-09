@@ -4,17 +4,20 @@ var dummy_info = {
   // Customer module configs
   "users": [
     {
-      "username": "ADMIN",
-      "password": "ADMIN"
-    },
-    {
-      "username": "roberto",
-      "password": "badpassword"
-    },
-    {
       "username": "user01",
-      "password": "user01"
-    }
+      "password": "password"
+    },
+    {
+      "username": "user02",
+      "password": "password"
+    },   {
+      "username": "user03",
+      "password": "password"
+    },   
+    {
+      "username": "user04",
+      "password": "password"
+    },
   ],
 
   "products": [
