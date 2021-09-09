@@ -10,6 +10,10 @@ var dummy_info = {
     {
       "username": "roberto",
       "password": "badpassword"
+    },
+    {
+      "username": "user01",
+      "password": "user01"
     }
   ],
 
