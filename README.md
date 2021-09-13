@@ -1,10 +1,10 @@
-[![Quality Gate Status](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/api/project_badges/measure?project=tsJestAutomation&metric=alert_status)](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/dashboard?id=tsJestAutomation)
+[![Quality Gate Status](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/api/project_badges/measure?project=hackathon-demo&metric=alert_status)](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/dashboard?id=hackathon-demo)
 
-[![Security Rating](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/api/project_badges/measure?project=tsJestAutomation&metric=security_rating)](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/dashboard?id=tsJestAutomation)
+[![Security Rating](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/api/project_badges/measure?project=hackathon-demo&metric=security_rating)](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/dashboard?id=hackathon-demo)
 
-[![Vulnerabilities](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/api/project_badges/measure?project=tsJestAutomation&metric=vulnerabilities)](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/dashboard?id=tsJestAutomation)
+[![Vulnerabilities](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/api/project_badges/measure?project=hackathon-demo&metric=vulnerabilities)](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/dashboard?id=hackathon-demo)
 
-[![Bugs](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/api/project_badges/measure?project=tsJestAutomation&metric=bugs)](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/dashboard?id=tsJestAutomation)
+[![Bugs](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/api/project_badges/measure?project=hackathon-demo&metric=bugs)](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/dashboard?id=hackathon-demo)
 
 # Vulnerable Node
 
