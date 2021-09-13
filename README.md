@@ -1,16 +1,23 @@
-Vulnerable Node
-===============
+[![Quality Gate Status](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/api/project_badges/measure?project=tsJestAutomation&metric=alert_status)](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/dashboard?id=tsJestAutomation)
+
+[![Security Rating](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/api/project_badges/measure?project=tsJestAutomation&metric=security_rating)](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/dashboard?id=tsJestAutomation)
+
+[![Vulnerabilities](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/api/project_badges/measure?project=tsJestAutomation&metric=vulnerabilities)](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/dashboard?id=tsJestAutomation)
+
+[![Bugs](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/api/project_badges/measure?project=tsJestAutomation&metric=bugs)](http://sonar-albse-1wqci1fiedtf3-1654113628.ap-southeast-2.elb.amazonaws.com/dashboard?id=tsJestAutomation)
+
+# Vulnerable Node
 
 ![Logo](https://raw.githubusercontent.com/cr0hn/vulnerable-node/master/images/logo-small.png)
 
-*Vulnerable Node: A very vulnerable web site written in NodeJS*
+_Vulnerable Node: A very vulnerable web site written in NodeJS_
 
-Codename | PsEA
--------- | ----
-Version | 1.0
-Code | https://github.com/cr0hn/vulnerable-node
-Issues | https://github.com/cr0hn/vulnerable-node/issues/
-Author | Daniel Garcia (cr0hn) - @ggdaniel
+| Codename | PsEA                                             |
+| -------- | ------------------------------------------------ |
+| Version  | 1.0                                              |
+| Code     | https://github.com/cr0hn/vulnerable-node         |
+| Issues   | https://github.com/cr0hn/vulnerable-node/issues/ |
+| Author   | Daniel Garcia (cr0hn) - @ggdaniel                |
 
 # Support this project
 
@@ -81,13 +88,13 @@ Here some images of site:
 
 This project has the most common vulnerabilities of `OWASP Top 10 <https://www.owasp.org/index.php/Top_10_2013-Top_10>`:
 
-- A1  - Injection
-- A2  - Broken Authentication and Session Management
-- A3  - Cross-Site Scripting (XSS)
-- A4  - Insecure Direct Object References
-- A5  - Security Misconfiguration
-- A6  - Sensitive Data Exposure
-- A8  - Cross-Site Request Forgery (CSRF)
+- A1 - Injection
+- A2 - Broken Authentication and Session Management
+- A3 - Cross-Site Scripting (XSS)
+- A4 - Insecure Direct Object References
+- A5 - Security Misconfiguration
+- A6 - Sensitive Data Exposure
+- A8 - Cross-Site Request Forgery (CSRF)
 - A10 - Unvalidated Redirects and Forwards
 
 ## Vulnerability code location
@@ -104,4 +111,5 @@ I took ideas and how to explode it in NodeJS using these references:
 # License
 
 This project is released under license BSD.
+
 # hackathon-demo
